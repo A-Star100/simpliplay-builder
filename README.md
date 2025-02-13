@@ -1,5 +1,5 @@
 # simpliplay-builder
-A simple shellscript that installs all dependencies needed to compile every version of SimpliPlay. Most dependencies will be quite large, so you'll have a choice on what to pick.
+A simple collection of shellscript(s) that install all dependencies needed to compile every version of SimpliPlay. Most dependencies will be quite large, so you'll have a choice on what to pick.
 
 ## How to use
 You'll find 4 shellscripts. Change the ownership of the ones you want to execute, for example:
