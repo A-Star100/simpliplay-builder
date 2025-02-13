@@ -44,4 +44,7 @@ and for `all.sh`, you can use 3 types of flags:
 ./install-all.sh --android --ios --desktop
 ```
 
+____________________________________________
+
+Keep in mind that these tools can be **quite large**. XCode by itself is **16 GB**, and that's only the space for the app! You'll need at least **40 GB** of free space to install everything needed to use XCode!
 
